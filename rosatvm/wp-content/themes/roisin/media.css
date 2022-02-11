@@ -1,0 +1,242 @@
+#nav-container
+{
+  background: #A60027;
+    height: 55px;
+}
+textarea {
+   border-bottom: 1px solid #0c5b47 !important;
+  padding-left: 19px !important;
+  font-size: 17px !important;
+}
+.mobile-header
+{
+ 
+    height:max-content !important;
+}
+#mobile-container
+{ background: #A60027;
+  height:130px;
+  
+}
+.qodef-header-sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 150px !important;
+  width: 100%;
+  padding: 0 0px !important;
+}
+#nav-item .nav-link
+{
+  line-height: 25px;
+    font-weight: 400;
+    color: #ffffff;
+}
+#para
+{
+    text-align: justify;
+}
+#qodef-page-header 
+{
+  background-color: #ffff !important;
+}
+#h5{
+  font-size: 20px; 
+   font-family: Crimson Text,serif;   
+     font-style: italic;
+  letter-spacing: .02em; 
+}
+
+.qodef-h5, h5 {
+    font-family: Quicksand,sans-serif;
+    letter-spacing: .02em;
+    color: #0c5b47 ;
+    font-size: 14px !important;
+    line-height: 1.318em;
+    font-weight: 600;
+    margin: 25px 0;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+#qodef-m-text
+{
+  text-align: justify !important;
+}
+
+@media only screen 
+  and (min-device-width: 210px) 
+  and (max-device-width:320px)
+{
+  .qodef-m-text
+  {
+    
+    text-align: left !important;
+  }
+  .qodef-m-title 
+  {
+    font-size: 12px !important;
+    font-weight: bold !important;
+    padding-right: 65px !important;
+  }
+
+.qodef-section-title .qodef-m-text {
+  padding-right: 39px !important;
+  font-size: 10px !important;
+  padding-left: 2px !important;
+}
+#para
+{
+  font-size: 12px !important;
+  font-size: 12px !important;
+  padding-right: 22px !important;
+}
+#elementor-widget-container {
+  width: 80% !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+.qodef-contact-form-7
+{
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  position: relative !important;
+  display: inline-block !important;
+  width: 100% !important;
+  vertical-align: top !important;
+}
+.qodef-woo-product-list .qodef-woo-product-inner {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 22px;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+#qodef-m-text
+{
+  padding-left: 15px !important;
+  font-size: 13px !important;
+ 
+}
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+{
+  #para
+  {
+    padding-right: 25px !important;
+  }
+  .qodef-m-title 
+  {
+    font-size: 16px !important;
+    font-weight: bold !important;
+  }
+  .qodef-woo-product-list .qodef-woo-product-inner {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 22px;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+  #qodef-m-text
+{
+  padding-left: 15px !important;
+  font-size: 13px !important;
+ 
+}
+}
+@media only screen 
+  and (min-device-width: 480px) 
+  and (max-device-width: 620px)
+{
+  .qodef-woo-product-list .qodef-woo-product-inner {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 22px;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+  #para
+  {
+    padding-right: 20px !important;
+  }
+  .qodef-m-title 
+  {
+    font-size: 23px !important;
+    font-weight: bold !important;
+  }
+  #qodef-m-title
+  {
+    font-size: 23px !important;
+    font-weight: bold !important;
+  }
+}
+@media only screen 
+  and (min-device-width:620px) 
+  and (max-device-width:720px)
+{
+  #para
+  {
+    padding-right: 30px !important;
+  }
+  .qodef-m-title 
+  {
+    font-size: 23px !important;
+    font-weight: bold !important;
+  }
+
+}
+@media only screen 
+  and (min-device-width:720px) 
+  and (max-device-width:900px)
+{
+  #elementor-widget-container {
+    
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 30px !important;
+  }
+  .qodef-m-title 
+  {
+    font-size: 27px !important;
+    font-weight: bold !important;
+  }
+  #qodef-m-title
+  {
+    font-size: 42px !important;
+    font-weight: bold !important;
+  }
+  .qodef-banner.qodef-layout--type-1 .qodef-m-content {
+    height: auto;
+    bottom: 0;
+    top: auto;
+    padding: 30px 23px !important;
+}
+.elementor-544 .elementor-element.elementor-element-f1b51c8>.elementor-element-populated {
+  padding: 0%;
+  padding-right: 48px !important;
+}
+#qodef-page-footer .widget .qodef-widget-title
+{
+  margin: 0 0 18px !important;
+    color: #10634e !important;
+    font-weight: bold !important;
+}
+}
+@media only screen 
+ and (max-device-width:1024px)
+  {
+    .qodef-shortcode .qodef-m  .qodef-banner .qodef-layout--type-2 .qodef--even .qodef--appear {
+      width: 100%;
+      padding-right: 57px !important;
+  }
+}
