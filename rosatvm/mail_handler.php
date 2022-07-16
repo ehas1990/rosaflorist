@@ -19,5 +19,5 @@
 			echo "Something went wrong!";
 		}
 	}
-        
+      require_once "contact.html";  
 ?>
